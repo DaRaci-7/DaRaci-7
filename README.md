@@ -3,7 +3,7 @@
   <img src="https://herramientas-ia.com/wp-content/uploads/2024/11/prompts-para-crear-imagen-de-personajes-de-Master-Chief-de-Halo-con-ia-1024x585.jpg.webp" width="50%">
 </p>  -->
 
-<h1 align="center">👋 ¡Hola! Soy DaRaci90k</h1>
+<h1 align="center">👋 ¡Hola! Soy DaRaci-7</h1>
 <h3 align="center">💻 Analista Desarrollador de Aplicaciones de Software</h3>
 
 ---
