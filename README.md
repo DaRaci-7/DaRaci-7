@@ -29,7 +29,7 @@ Me gusta crear soluciones eficientes y aprender constantemente sobre nuevas herr
 ---
 
 ### 📫 Conecta conmigo
-📧 **Correo:** *Eduardo.lizama06gmail.com*  
+📧 **Correo:** *Eduardo.lizama06@gmail.com*  
 💼 **LinkedIn:**   
 
 ---
