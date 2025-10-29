@@ -28,15 +28,6 @@ Me gusta crear soluciones eficientes y aprender constantemente sobre nuevas herr
 
 ---
 
-### 🎮 Inspiración
- <p align="center">
-  <img src="https://herramientas-ia.com/wp-content/uploads/2024/11/prompts-para-crear-imagen-de-personajes-de-Master-Chief-de-Halo-con-ia-1024x585.jpg.webp" width="300px">
-</p> 
-
-> “Los héroes no siempre llevan capa… a veces llevan armadura Mjolnir.” 🧠⚔️
-
----
-
 ### 📫 Conecta conmigo
 📧 **Correo:** *Eduardo.lizama06gmail.com*  
 💼 **LinkedIn:**   
