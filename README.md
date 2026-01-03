@@ -3,7 +3,7 @@
   <img src="https://herramientas-ia.com/wp-content/uploads/2024/11/prompts-para-crear-imagen-de-personajes-de-Master-Chief-de-Halo-con-ia-1024x585.jpg.webp" width="50%">
 </p>  -->
 
-<h1 align="center">👋 ¡Hola! Soy DaRaci-7</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%8B+%C2%A1Hola!+Soy+DaRaci-7" alt="Typing SVG" /></a>
 <h3 align="center">💻 Analista Desarrollador de Aplicaciones de Software</h3>
 
 ---
