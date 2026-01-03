@@ -4,7 +4,7 @@
 </p>  -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%8B+%C2%A1Hola!+Soy+DaRaci-7" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Analista+Desarrollador+de+Aplicaciones+de+Software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=700&lines=%F0%9F%92%BB+Analista+Desarrollador+de+Aplicaciones+de+Software" alt="Typing SVG" /></a>
 
 ---
 
