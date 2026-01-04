@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Sobre mí
-Soy un apasionado por la **tecnología**, el **desarrollo de software** y la **inteligencia artificial**.  
+Soy un apasionado por la **tecnología**, he trabajado por mas de 7 años en el area de la Mecanica Automotriz, Busco oportrunidades en  **desarrollo de software** e investigacion de **inteligencia artificial**.  
 Me gusta crear soluciones eficientes y aprender constantemente sobre nuevas herramientas y lenguajes.
 
 ---
@@ -22,8 +22,10 @@ Me gusta crear soluciones eficientes y aprender constantemente sobre nuevas herr
 ---
 
 ### 🚀 Áreas de interés
-- 🤖 **Inteligencia Artificial**  
-- 🌐 **Desarrollo Web**  
+- 🤖 **Inteligencia Artificial**
+- 🏛️ **Arquitectura de Software**
+- 🌐 **Desarrollo Web**
+- 👾 **Gestion De Proyectos**
 - 🧬 **Proyectos Open Source**
 
 ---
