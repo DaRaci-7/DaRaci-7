@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Sobre mí
-Soy un apasionado por la **tecnología**, he trabajado por mas de **7 años** en el area de la Mecanica Automotriz partiendo como miembro de equipos de trabajo hasta alcanzar el cargo de **Jefe De Taller** en distintas oportunidaes, Busco oportrunidades en  **desarrollo de software** e investigacion de **inteligencia artificial** para iniciar mi carrera en el area de **Informatica**  
+Soy un apasionado por la **tecnología**, he trabajado por mas de **7 años** en el area de la Mecanica Automotriz partiendo como miembro de equipos de trabajo hasta alcanzar el cargo de **Jefe De Taller** en distintas ocasiones, Busco oportunidades en  **desarrollo de software** e investigacion de **inteligencia artificial** para iniciar mi carrera en el area de **Informatica**  
 Me gusta crear soluciones eficientes y aprender constantemente sobre nuevas herramientas y lenguajes.
 
 ---
