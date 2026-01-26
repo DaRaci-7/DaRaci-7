@@ -70,7 +70,7 @@ Mi objetivo es iniciar una carrera sólida en **Informática**, creando solucion
 ### 📫 Conecta conmigo
 📧 **Correo:** [Eduardo.lizama06@gmail.com](mailto:Eduardo.lizama06@gmail.com)  
 💼 **LinkedIn:** [Eduardo Andrés Lizama Delgado](https://www.linkedin.com/in/eduardo-andr%C3%A9s-lizama-delgado-5603b2282/)  
-🐙 **GitHub:** [[TuUsuarioGitHub](https://github.com/TuUsuarioGitHub](https://github.com/DaRaci-7))  
+🐙 **GitHub:** [https://github.com/DaRaci-7](https://github.com/DaRaci-7)  
 
 ---
 
