@@ -5,8 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=1000&width=500&lines=%F0%9F%9B%A1%EF%B8%8FEDUARDO+LIZAMA%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=700&lines=%F0%9F%92%BB+Analista+Desarrollador+de+Aplicaciones+de+Software" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&duration=2500&pause=1000&width=700&lines=%F0%9F%92%BB+FullStack+Java/JavaScript" alt="Typing SVG" /></a>
+
 
 ---
 
